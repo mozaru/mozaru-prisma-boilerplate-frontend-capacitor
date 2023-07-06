@@ -1,1 +1,1 @@
-# mozaru-prisma-boilerplate-frontend-capacitor
+prisma-boilerplate-frontend-capacitor
