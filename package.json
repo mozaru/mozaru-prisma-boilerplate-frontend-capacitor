@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@capacitor/app": "latest",
+    "@capacitor/core": "latest",
+    "@capacitor/geolocation": "latest"
+  }
+}

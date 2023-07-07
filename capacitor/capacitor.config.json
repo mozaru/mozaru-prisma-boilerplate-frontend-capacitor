@@ -1,0 +1,8 @@
+{
+  "appId": "#APP_ID#",
+  "appName": "#APP_NAME#",
+  "webDir": "pack",
+  "server": {
+    "androidScheme": "https"
+  }
+}

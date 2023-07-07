@@ -1,1 +1,0 @@
-prisma-boilerplate-frontend-capacitor
