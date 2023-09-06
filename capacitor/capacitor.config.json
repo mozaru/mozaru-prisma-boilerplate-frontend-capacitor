@@ -1,7 +1,7 @@
 {
   "appId": "#APP_ID#",
   "appName": "#APP_NAME#",
-  "webDir": "pack",
+  "webDir": "../bundle",
   "server": {
     "androidScheme": "https"
   }

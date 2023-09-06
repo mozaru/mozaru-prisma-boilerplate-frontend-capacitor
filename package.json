@@ -1,7 +1,16 @@
 {
+  "scripts": {
+    "init-android": "cd capacitor & npm run init-android",
+    "init-ios": "cd capacitor & npm run init-ios",
+    "start": "vite",
+    "build": "npm i & cd capacitor & npm i & cd .. & vite build",
+    "preview": "vite preview",
+    "deploy": "npm run build & cd capacitor & npm run deploy"
+  },
   "dependencies": {
-    "@capacitor/app": "latest",
-    "@capacitor/core": "latest",
-    "@capacitor/geolocation": "latest"
+    "prisma-js": "git+https://github.com/mozaru/prisma-lib-js.git"
+  },
+  "devDependencies": {
+    "vite": "latest"
   }
 }

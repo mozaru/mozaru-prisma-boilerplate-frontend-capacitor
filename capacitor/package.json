@@ -1,16 +1,10 @@
 {
   "scripts": {
-    "init-android": "npm i @capacitor/android  & npx cap add android",
+    "init-android": "npm i @capacitor/android & npx cap add android",
     "init-ios": "npm i @capacitor/ios & npx cap add ios",
-    "start": "vite",
-    "build": "npm i & cd .. & npm i & cd capacitor & vite build",
-    "preview": "vite preview",
-    "deploy": "npm run build & npx cap sync"
-  },
-  "dependencies": {
+    "deploy": "npx cap sync"
   },
   "devDependencies": {
-    "@capacitor/cli": "latest",
-    "vite": "latest"
+    "@capacitor/cli": "latest"
   }
 }
