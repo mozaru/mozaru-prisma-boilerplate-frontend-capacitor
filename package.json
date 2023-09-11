@@ -8,7 +8,7 @@
     "deploy": "npm run build & cd capacitor & npm run deploy"
   },
   "dependencies": {
-    "prisma-js": "git+https://github.com/mozaru/prisma-lib-js.git"
+    "prisma-js": "git+https://github.com/mozaru/prisma-lib-js/tree/capacitor"
   },
   "devDependencies": {
     "vite": "latest"
