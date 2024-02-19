@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "scripts": {
     "init-android": "cd capacitor & npm run init-android",
     "init-ios": "cd capacitor & npm run init-ios",
