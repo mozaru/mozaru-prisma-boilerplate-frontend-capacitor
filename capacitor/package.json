@@ -5,8 +5,6 @@
     "deploy": "npx cap sync"
   },
   "devDependencies": {
-    "@capacitor/cli": "latest",
-    "@capacitor/app": "latest",
-    "@capacitor/geolocation": "latest"
+    "@capacitor/cli": "latest"
   }
 }
